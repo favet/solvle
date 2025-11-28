@@ -1,4 +1,4 @@
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot.png)
 
 # Quality Wordle Solver
 
