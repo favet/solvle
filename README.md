@@ -11,4 +11,4 @@ Python/CustomTkinter Wordle Solver
 3. Press letter boxes to update color.
 4. If a non-generated word is used, boxes can be edited manually.
    
-Note: Solver does not contain *actual* potential answers, as they are manually selected from a private source.  Errors will occur as a result of using an outdated wordlist.txt.
+Note: Solver does not contain *actual* potential answers, as they are manually selected from a private source.  Errors will sometimes occur as a result of using an outdated word bank.
