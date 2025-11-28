@@ -1,4 +1,4 @@
-Python/CustomTkinter Wordle Solver
+Quality Wordle Solver
 
 ## Features
 * **Information Theory Engine:** Uses Shannon Entropy to find the mathematically optimal guesses.
