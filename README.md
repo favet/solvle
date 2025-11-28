@@ -1,3 +1,5 @@
+![Dashboard Screenshot](screenshot.png)
+
 # Quality Wordle Solver
 
 ## Features
